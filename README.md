@@ -1,7 +1,7 @@
 ## RPG - Empire | Idle
-LE JEUX EST EN PRE-ALPHA TOUT PEUX ETRE CHANGE LES FAUTES / INCOHERENCES / BUGS SONT NORMAUX  
+LE JEU EST EN PRE-ALPHA TOUT PEUX ÊTRE CHANGE LES FAUTES/INCOHÉRENCES / BUGS SONT NORMAUX.
 -----
-Le jeux:  
+Les touches:  
 W, A, S, D - pour se déplacer  
-Q - Interagir (Quand une barre apparait)  
-Clique droit - Interagir avec les batiments
+Q - interagir (Quand une barre apparait)  
+Clique droit - Interagir avec les bâtiments
