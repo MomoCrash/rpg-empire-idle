@@ -6,3 +6,5 @@ Les touches du jeu:
 - Clique gauche - Casser des ressources
 - Clique droit - Interagir avec les bâtiments
 - Echap - Pause
+
+Update / Questions / Infos at https://discord.gg/Qe8ZvWZ
